@@ -387,189 +387,179 @@ The Comprehensive Rules is a living document. Go to the _Disney Lorcana_ Resourc
 
 # 3. TURN STRUCTURE 
 
-   - 3.1. Phases 
+ ## 3.1. Phases 
 
-      - 3.1.1. A turn has three phases, which occur in this order: Start-of-Turn Phase, Main Phase, and End-of-Turn Phase. 
+- 3.1.1. A turn has three phases, which occur in this order: Start-of-Turn Phase, Main Phase, and End-of-Turn Phase. 
 
-      - 3.1.2. The Start-of-Turn Phase is where a player resets their cards as appropriate for their new turn. This is where all effects that end at the start of the player’s turn end and where effects that occur or begin at the start of their turn happen. The Start-of-Turn Phase has three steps: Ready, Set, and Draw. Each of these steps is performed in the order listed in sections 3.2.1 through 3.2.3. 
+- 3.1.2. The Start-of-Turn Phase is where a player resets their cards as appropriate for their new turn. This is where all effects that end at the start of the player’s turn end and where effects that occur or begin at the start of their turn happen. The Start-of-Turn Phase has three steps: Ready, Set, and Draw. Each of these steps is performed in the order listed in sections 3.2.1 through 3.2.3. 
 
-      - 3.1.3. The Main Phase is where a player can act on their turn, choosing to take any of the Main Phase turn actions. (See 3.3, “Main Phase.”) 
+- 3.1.3. The Main Phase is where a player can act on their turn, choosing to take any of the Main Phase turn actions. (See 3.3, “Main Phase.”) 
 
-      - 3.1.4. The End-of-Turn Phase is where all effects that end at the current turn end and the next player in the turn order becomes the active player. (See 3.4 “End-of-Turn Phase.”) 
+- 3.1.4. The End-of-Turn Phase is where all effects that end at the current turn end and the next player in the turn order becomes the active player. (See 3.4 “End-of-Turn Phase.”) 
 
-   - 3.2. Start-of-Turn Phase 
+## 3.2. Start-of-Turn Phase 
 
-      - 3.2.1. Ready 
+ ### 3.2.1. Ready 
 
-         - 3.2.1.1. The active player readies all their cards in play and in their inkwell. 
+  - 3.2.1.1. The active player readies all their cards in play and in their inkwell. 
 
-         - 3.2.1.2. Effects that apply “during your turn” start applying. 
+  - 3.2.1.2. Effects that apply “during your turn” start applying. 
 
-         - 3.2.1.3. Effects that end at “the start of your turn” or at “the start of your next turn” end. 
+  - 3.2.1.3. Effects that end at “the start of your turn” or at “the start of your next turn” end. 
+  
+  - 3.2.1.4. Triggered abilities that happen “at the start of your turn” or that occur at any time during the Ready step are added to the bag but don’t yet resolve. 
 
+  ### 3.2.2. Set 
 
-- 3.2.1.4. Triggered abilities that happen “at the start of your turn” or that occur at any time during the Ready step are added to the bag but don’t yet resolve. 
+   - 3.2.2.1. The active player’s characters that are in play are no longer “drying” and will be able to quest, challenge, or Exert to pay costs for activated abilities or song cards. 
 
-## 3.2.2. Set 
-
-   - 3.2.2.1. The active player’s characters that are in play are no longer “drying” and will be able to quest, challenge, or @ to pay costs for activated abilities or song cards. 
-
-   - 3.2.2.2. The active player gains lore from locations they have in play with a  characteristic. This isn’t a triggered ability and doesn’t use 4 the bag. 
+   - 3.2.2.2. The active player gains lore from locations they have in play with a Prism characteristic. This isn’t a triggered ability and doesn’t use 4 the bag. 
 
    - 3.2.2.3. The active player resolves any triggered abilities in the bag that were added during the Set step or the Ready step. 
 
-- 3.2.3. Draw 
+ ### 3.2.3. Draw 
 
-   - 3.2.3.1. 
+   - 3.2.3.1. The active player draws a card from their deck. If this turn is the first turn of the game, the starting player skips this step.
 
    - 3.2.3.2. Once all effects have been resolved and there are no more abilities in the bag, the game moves into the Main Phase. 
 
-## 3.3. Main Phase 
-
+## 3.3. Main Phase
 - 3.3.1. During the Main Phase, a player can perform the turn actions listed in section 4, “Turn Actions.” 
-
+  
 - 3.3.2. The active player can declare the end of their turn at any time during the Main Phase of their turn as long as they follow the rules listed in section 3.3.2.1. Once they do so, the game moves to the End-of-Turn Phase. 
-
-   - 3.3.2.1. If the active player is performing a turn action and/or there are abilities in the bag waiting to resolve, the active player can’t declare the end of their turn and move to the End-of-Turn phase until the turn action is fully complete and there are no more abilities in the bag waiting to resolve. 
+  - 3.3.2.1. If the active player is performing a turn action and/or there are abilities in the bag waiting to resolve, the active player can’t declare the end of their turn and move to the End-of-Turn phase until the turn action is fully complete and there are no more abilities in the bag waiting to resolve. 
 
 ## 3.4. End-of-Turn Phase 
 
-      - 3.4.1. Once the active player has declared the end of their turn, they end their turn using the following process. 
+- 3.4.1. Once the active player has declared the end of their turn, they end their turn using the following process. 
 
-         - 3.4.1.1. First, triggered abilities that would occur “At the end of the turn” and “At the end of your turn” are added to and resolve from the bag. 
+  - 3.4.1.1. First, triggered abilities that would occur “At the end of the turn” and “At the end of your turn” are added to and resolve from the bag. 
 
-         - 3.4.1.2. Second, effects that would end at the end of the active player’s turn end. This includes effects with a stated duration of “this turn” 
+  - 3.4.1.2. Second, effects that would end at the end of the active player’s turn end. This includes effects with a stated duration of “this turn” (e.g., Support ). Any triggered abilities that would occur are added to and resolve from the bag. 
 
-            - (e.g., Support ). Any triggered abilities that would occur are added to and resolve from the bag. 
-
-      - 3.4.2. (see 1.9.1). Then, the next player becomes the active player and starts their turn. 
+- 3.4.2. (see 1.9.1). Then, the next player becomes the active player and starts their turn. 
 
 # 4. TURN ACTIONS 
 
-   - 4.1. General 
+ ## 4.1. General 
 
-      - 4.1.1. Turn actions are the actions that the game allows a player to take during their turn. No effect or other card is needed to take these turn actions. All turn actions can be taken any number of times by the active player, except for inking a card (see 4.2.3). 
+ - 4.1.1. Turn actions are the actions that the game allows a player to take during their turn. No effect or other card is needed to take these turn actions. All turn actions can be taken any number of times by the active player, except for inking a card (see 4.2.3). 
 
-      - 4.1.2. The active player can take turn actions only during the Main Phase of their turn and can take them in any order. The active player must complete each turn action in its entirety and players must resolve anything in the bag that resulted from a turn action before the active player takes their next turn action. 
+ - 4.1.2. The active player can take turn actions only during the Main Phase of their turn and can take them in any order. The active player must complete each turn action in its entirety and players must resolve anything in the bag that resulted from a turn action before the active player takes their next turn action. 
 
-      - 4.1.3. The active player can take the following turn actions during their turn: ink a card, play a card, use a card’s activated ability, quest, challenge, and move a character to a location. 
+ - 4.1.3. The active player can take the following turn actions during their turn: ink a card, play a card, use a card’s activated ability, quest, challenge, and move a character to a location. 
 
-      - 4.1.4. If any part of a turn action process can’t be performed, it’s illegal to continue the turn action and the game goes back to the moment right before the turn action was started (see 1.7.6). 
+ - 4.1.4. If any part of a turn action process can’t be performed, it’s illegal to continue the turn action and the game goes back to the moment right before the turn action was started (see 1.7.6). 
 
-      - 4.1.5. If a triggered ability occurs during the process used to complete a turn action, the triggered ability is added to the bag but won’t resolve until the process is complete. Each process within a turn action defines when it’s complete. 
+ - 4.1.5. If a triggered ability occurs during the process used to complete a turn action, the triggered ability is added to the bag but won’t resolve until the process is complete. Each process within a turn action defines when it’s complete. 
 
-## 4.2. Ink a Card 
+ ## 4.2. Ink a Card 
 
 - 4.2.1. The player declares they’re putting a card into their inkwell. To do so, the player follows the process listed in sections 4.2.1.1 through 4.2.1.3: 
 
+  - 4.2.1.1. First, the player chooses and reveals a card from their hand with the inkwell symbol. 
 
-   - 4.2.1.1. First, the player chooses and reveals a card from their hand with the inkwell symbol. 
+  - 4.2.1.2. Second, all players verify that the inkwell symbol is present on the revealed card. 
 
-   - 4.2.1.2. Second, all players verify that the inkwell symbol is present on the revealed card. 
-
-   - 4.2.1.3. Third, the player puts the revealed card into their inkwell facedown and ready. This marks the end of the process. 
+  - 4.2.1.3. Third, the player puts the revealed card into their inkwell facedown and ready. This marks the end of the process. 
 
 - 4.2.2. Once the process of inking a card is complete, the player can resolve any triggered abilities that were added to the bag. When all abilities have been resolved, the turn action is complete. 
 
 - 4.2.3. This turn action is limited to once during the active player’s turn. 
 
-   - 4.2.3.1. Some effects allow a player to put “additional” cards into their inkwell. These effects continually adjust the once-per-turn limit of the turn action for as long as the effect allowing the additional cards into the inkwell applies. 
+  - 4.2.3.1. Some effects allow a player to put “additional” cards into their inkwell. These effects continually adjust the once-per-turn limit of the turn action for as long as the effect allowing the additional cards into the inkwell applies. 
 
-> _Example: Belle – Strange But Special has an ability Read a Book that reads, “During your turn, you may put an additional card from your hand into your inkwell facedown.” A player can put two cards into their inkwell during their turn: one from the turn action and one from Belle’s ability. If an effect returns Belle to a player’s hand and the card is replayed, the player can’t put another card into their inkwell because the additional card was already added to their inkwell for the turn. If the player has two copies of Belle in play, then they could put a third card into their inkwell._ 
+   > _Example: Belle – Strange But Special has an ability Read a Book that reads, “During your turn, you may put an additional card from your hand into your inkwell facedown.” A player can put two cards into their inkwell during their turn: one from the turn action and one from Belle’s ability. If an effect returns Belle to a player’s hand and the card is replayed, the player can’t put another card into their inkwell because the additional card was already added to their inkwell for the turn. If the player has two copies of Belle in play, then they could put a third card into their inkwell._ 
 
-      - 4.2.3.2. Some effects allow a player to put a card directly into their inkwell. These effects aren’t counted toward the once-per-turn limit of the turn action, and the card isn’t revealed as it’s put into the player’s inkwell. 
+   - 4.2.3.2. Some effects allow a player to put a card directly into their inkwell. These effects aren’t counted toward the once-per-turn limit of the turn action, and the card isn’t revealed as it’s put into the player’s inkwell. 
 
-         - _Example: Fishbone Quill is an item that has the ability Go Ahead and Sign, which reads, “_ Willpower _— Put any card from your hand into your inkwell facedown.” A player may use this ability as many times as they can pay its cost. Cards added to the inkwell this way aren’t revealed._ 
+   > _Example: Fishbone Quill is an item that has the ability Go Ahead and Sign, which reads, “Exert — Put any card from your hand into your inkwell facedown.” A player may use this ability as many times as they can pay its cost. Cards added to the inkwell this way aren’t revealed._ 
 
-- 4.3. Play a Card 
+ ## 4.3. Play a Card 
 
-   - 4.3.1. The active player can play a card from their hand by announcing the card and paying its cost. 
+- 4.3.1. The active player can play a card from their hand by announcing the card and paying its cost. 
 
-   - 4.3.2. The process for playing a card listed in sections 4.3.2.1 through 4.3.2.4 applies to all cards that can be played. Cards can normally be played only from a player’s hand. Only the active player can play a card during their turn. 
+- 4.3.2. The process for playing a card listed in sections 4.3.2.1 through 4.3.2.4 applies to all cards that can be played. Cards can normally be played only from a player’s hand. Only the active player can play a card during their turn. 
 
-      - 4.3.2.1. First, the active player announces the card they intend to play and reveals it from their hand. 
+  - 4.3.2.1. First, the active player announces the card they intend to play and reveals it from their hand. 
 
-      - 4.3.2.2. Second, the player announces how they intend to play the card, whether for its ink cost or an alternate cost. If multiple alternate costs could apply, the player chooses one and ignores the others. If the card is played for the alternate cost of “for free,” that alternate cost is immediately chosen, and the player ignores all costs to play the card and skips directly to 4.3.3 (see 1.5.5). 
+  - 4.3.2.2. Second, the player announces how they intend to play the card, whether for its ink cost or an alternate cost. If multiple alternate costs could apply, the player chooses one and ignores the others. If the card is played for the alternate cost of “for free,” that alternate cost is immediately chosen, and the player ignores all costs to play the card and skips directly to 4.3.3 (see 1.5.5). 
 
-      - 4.3.2.3. Third, the player determines the _total cost_ needed to play the card. The total cost is the ink cost or alternate cost plus any payment modifiers. The resulting cost is the total cost. 
+  - 4.3.2.3. Third, the player determines the _total cost_ needed to play the card. The total cost is the ink cost or alternate cost plus any payment modifiers. The resulting cost is the total cost. 
 
-      - 4.3.2.4. Fourth, the player pays the total cost. If the total cost includes any ink, the player must exert a number of ready ink cards equal to the ink cost. If any other costs are included, the player pays those costs as instructed by the card text. Costs can be paid in any order but must be paid in full. 
+  - 4.3.2.4. Fourth, the player pays the total cost. If the total cost includes any ink, the player must exert a number of ready ink cards equal to the ink cost. If any other costs are included, the player pays those costs as instructed by the card text. Costs can be paid in any order but must be paid in full. 
 
-   - 4.3.3. Once the total card cost is paid, the card enters play based on its type and is now considered “played.” 
+- 4.3.3. Once the total card cost is paid, the card enters play based on its type and is now considered “played.” 
 
-      - 4.3.3.1. If the card is a character, item, or location, the card enters the Play zone. If it’s a character card being played using its Shift ability, it must be put on top of the card referenced in the alternate cost to play it. This marks the end of the process. 
+  - 4.3.3.1. If the card is a character, item, or location, the card enters the Play zone. If it’s a character card being played using its Shift ability, it must be put on top of the card referenced in the alternate cost to play it. This marks the end of the process. 
 
-      - 4.3.3.2. If the card is an action, the card enters the Play zone and its effect resolves immediately. Then, the card moves to the player’s discard pile (see 6.7.1.2). This marks the end of the process. 
+  - 4.3.3.2. If the card is an action, the card enters the Play zone and its effect resolves immediately. Then, the card moves to the player’s discard pile (see 6.7.1.2). This marks the end of the process. 
 
-   - 4.3.4. Once all steps in 4.3.2 and 4.3.3 are completed, triggered abilities that were added to the bag can now resolve. 
+- 4.3.4. Once all steps in 4.3.2 and 4.3.3 are completed, triggered abilities that were added to the bag can now resolve. 
 
-      - 4.3.4.1. If a card being played has a triggered ability that reads, “When [The Player] play(s) this [Card Type],” the triggered condition is met during step 4.3.3 as the card comes into play and is added to the bag. This is an exception to section 1.6.1. 
+  - 4.3.4.1. If a card being played has a triggered ability that reads, “When [The Player] play(s) this [Card Type],” the triggered condition is met during step 4.3.3 as the card comes into play and is added to the bag. This is an exception to section 1.6.1. 
 
-   - 4.3.5. Effects that change how a player pays the cost of a card (e.g., Singer ) don’t change the ink cost of the card. 
-
+- 4.3.5. Effects that change how a player pays the cost of a card (e.g., Singer ) don’t change the ink cost of the card. 
 
 - 4.3.6. duration, even if you pay an alternate cost to play that card. If the payment modifier applies to a card with a specific classification, it applies to the next card with that classification, even if other cards of the same type are played before it. Some cards have a self-referential payment modifier that functions while the card is in a non-Play zone, meaning it applies to the card it’s listed on only when that card is played. A modifier that isn’t self-referential functions only while the card it’s listed on is in play. 
 
-   - _Example A: Doc – Leader of the Seven Dwarfs has an ability called Share and Share Alike that reads, “Whenever this character quests, you pay 1_ 0 _less for the next character you play this turn.” If the active player exerted Doc to quest this turn and then played a character for free as a result of another effect (such as from playing Just in Time), the 1_ 0 _payment reduction still applies._ 
+> _Example A: Doc – Leader of the Seven Dwarfs has an ability called Share and Share Alike that reads, “Whenever this character quests, you pay 1 Ink less for the next character you play this turn.” If the active player exerted Doc to quest this turn and then played a character for free as a result of another effect (such as from playing Just in Time), the 1 Ink payment reduction still applies._ 
 
-> _Example B: Perdita – Playful Mother has an ability called Who’s Next? that reads, “Whenever this character quests, you pay 2_ 0 _less for the next Puppy character you play this turn.” If the active player quests with Perdita and then plays a Flounder – Voice of Reason, the payment modifier for a Puppy character would still apply to the next Puppy character they play, since Flounder doesn’t have the Puppy classification._ 
+> _Example B: Perdita – Playful Mother has an ability called Who’s Next? that reads, “Whenever this character quests, you pay 2 Ink less for the next Puppy character you play this turn.” If the active player quests with Perdita and then plays a Flounder – Voice of Reason, the payment modifier for a Puppy character would still apply to the next Puppy character they play, since Flounder doesn’t have the Puppy classification._ 
 
-> _Example C: LeFou – Bumbler has an ability called Loyal that reads, “If you have a character named Gaston in play, you pay 1_ 0 _less to play this character.” This payment modifier is self-referential because it can apply only to playing that specific card. In contrast, Gadget Hackwrench –_ 
+> _Example C: LeFou – Bumbler has an ability called Loyal that reads, “If you have a character named Gaston in play, you pay 1 Ink less to play this character.” This payment modifier is self-referential because it can apply only to playing that specific card. In contrast, Gadget Hackwrench –_ 
 
-> _Brilliant Bosun has an ability called Mechanically Savvy that reads, “While you have 3 or more items in play, you pay 1_ 0 _less to play Inventor characters.” Even though Gadget has the Inventor classification, the ability doesn’t refer to itself when playing and begins to apply only when Gadget is in play._ 
+> _Brilliant Bosun has an ability called Mechanically Savvy that reads, “While you have 3 or more items in play, you pay 1 Ink less to play Inventor characters.” Even though Gadget has the Inventor classification, the ability doesn’t refer to itself when playing and begins to apply only when Gadget is in play._ 
 
-## 4.4. Use an Activated Ability 
+ ## 4.4. Use an Activated Ability 
 
 - 4.4.1. An activated ability is an ability listed on a card the active player has in play that they can use to pay a cost to generate an effect. Activated abilities are normally written as [Cost] — [Effect]. 
 
-- 4.4.2. An activated ability with an G cost on a character can be used only if the character is dry. An activated ability on an item or location can be used during the turn the item or location is played. 
+- 4.4.2. An activated ability with an Exert cost on a character can be used only if the character is dry. An activated ability on an item or location can be used during the turn the item or location is played. 
 
-   - 4.4.2.1. Some activated abilities G a character as a part of its cost. Only dry characters can be used to pay that cost. 
+   - 4.4.2.1. Some activated abilities Exeret a character as a part of its cost. Only dry characters can be used to pay that cost. 
 
 - 4.4.3. To use an activated ability, the active player follows the steps of the process listed here in order. These steps apply to all activated abilities. Only the active player can use activated abilities. 
 
-   - 4.4.3.1. First, the active player announces the ability they intend to use. 
+  - 4.4.3.1. First, the active player announces the ability they intend to use. 
 
-   - 4.4.3.2. Second, the player announces how they intend to activate the ability, whether for its ink cost or an alternate cost. If multiple alternate costs could apply to the activated ability, the player chooses one and ignores the others for the purposes of activating the ability. If the ability can be activated “for free,” ignore all costs except for G to activate the ability and skip directly to section 4.4.4. 
+  - 4.4.3.2. Second, the player announces how they intend to activate the ability, whether for its ink cost or an alternate cost. If multiple alternate costs could apply to the activated ability, the player chooses one and ignores the others for the purposes of activating the ability. If the ability can be activated “for free,” ignore all costs except for Exert to activate the ability and skip directly to section 4.4.4. 
 
-   - 4.4.3.3. Third, the player determines the total cost needed to activate the ability. The total cost is the ink cost or alternate cost plus any _total cost_ . 
+  - 4.4.3.3. Third, the player determines the total cost needed to activate the ability. . The total cost is the ink cost or alternate cost plus any payment modifiers. The resulting cost is the _total cost_. 
 
-   - payment modifiers. The resulting cost is the 
-
-   - 4.4.3.4. Fourth, the player pays the total cost. If the total cost includes any ink, the player must exert a number of ready ink cards equal to the ink cost. If any other costs are included, the player pays those costs as instructed by the card text. Costs can be paid in any order but must be paid in full. 
+  - 4.4.3.4. Fourth, the player pays the total cost. If the total cost includes any ink, the player must exert a number of ready ink cards equal to the ink cost. If any other costs are included, the player pays those costs as instructed by the card text. Costs can be paid in any order but must be paid in full. 
 
 - 4.4.4. Once the total cost is paid, the ability is activated. The active player resolves the effect immediately. This marks the end of the process. 
 
 - 4.4.5. Once all steps in sections 4.4.3 and 4.4.4 are completed, triggered abilities added to the bag during this process can now resolve. 
 
-## 4.5. Quest 
+ ## 4.5. Quest 
 
-- 4.5.1. Only characters can quest. A character chosen to quest is the _questing character_ . The active player who declares a questing character is the _questing player_ . To quest with a character, the player follows the process listed below in order. 
+ - 4.5.1. Only characters can quest. A character chosen to quest is the _questing character_ . The active player who declares a questing character is the _questing player_ . To quest with a character, the player follows the process listed below in order. 
 
    - 4.5.1.1. First, the player declares the character they plan to quest with. 
 
 
-      - 4.5.1.2. Second, the player checks for any limiters that prevent them from questing (e.g., they aren’t dry yet, they have Reckless , etc.) and pays any costs required to quest with the declared character. 
+   - 4.5.1.2. Second, the player checks for any limiters that prevent them from questing (e.g., they aren’t dry yet, they have Reckless , etc.) and pays any costs required to quest with the declared character. 
 
-      - 4.5.1.3. Third, the player exerts the questing character. 
+   - 4.5.1.3. Third, the player exerts the questing character. 
 
-      - 4.5.1.4. Fourth, the player gains lore equal to the  of the questing character. This marks the end of the process. N 
+   - 4.5.1.4. Fourth, the player gains lore equal to the Prism of the questing character. This marks the end of the process.
 
-   - 4.5.2. Once the lore is gained by the questing player, the questing character has “quested.” Triggered abilities that were added to the bag during the process can now resolve. 
+ - 4.5.2. Once the lore is gained by the questing player, the questing character has “quested.” Triggered abilities that were added to the bag during the process can now resolve. 
 
-   - 4.5.3. Once all effects have been resolved, the quest turn action is complete. 
+ - 4.5.3. Once all effects have been resolved, the quest turn action is complete. 
+   - 4.5.3.1. If a questing character has a negative lore value, the questing player gains no lore (see 1.11.2). 
 
-      - 4.5.3.1. If a questing character has a negative lore value, the questing player gains no lore (see 1.11.2). 
+ ## 4.6. Challenge 
 
-- 4.6. Challenge 
+ - 4.6.1. Only characters can challenge. A character declared by a player to challenge is the _challenging character_ . The player who declares a challenging character is the _challenging player_ . The opposing character or location is _being challenged_ , and the player whose character or location is being challenged is the _challenged player_ . 
 
-   - 4.6.1. Only characters can challenge. A character declared by a player to challenge is the _challenging character_ . The player who declares a challenging character is the _challenging player_ . The opposing character or location is _being challenged_ , and the player whose character or location is being challenged is the _challenged player_ . 
+ - 4.6.2. Only the challenging character and the character or location being challenged are considered to be in the challenge. If an ability or effect refers to a character “in a challenge,” it’s referring only to one of the characters in the current challenge. 
 
-   - 4.6.2. Only the challenging character and the character or location being challenged are considered to be in the challenge. If an ability or effect refers to a character “in a challenge,” it’s referring only to one of the characters in the current challenge. 
+ - 4.6.3. Challenges are divided into two steps: the Challenge Declaration step and the Challenge Damage step. In the Challenge Declaration step, players follow the process to establish what character is challenging and what opposing character or location is being challenged. In the Challenge Damage step, players follow the process to deal damage, if applicable, and fully complete the challenge. These steps are always followed in this order. 
 
-   - 4.6.3. Challenges are divided into two steps: the Challenge Declaration step and the Challenge Damage step. In the Challenge Declaration step, players follow the process to establish what character is challenging and what opposing character or location is being challenged. In the Challenge Damage step, players follow the process to deal damage, if applicable, and fully complete the challenge. These steps are always followed in this order. 
-
-## 4.6.4. Challenge Declaration step 
+### 4.6.4. Challenge Declaration step 
 
    - 4.6.4.1. First, the player declares one of their characters is challenging a character. A character must have been in play at the beginning of the Set step of their player’s turn and ready in order to challenge (see 3.2.2.1). 
 
@@ -580,22 +570,18 @@ The Comprehensive Rules is a living document. Go to the _Disney Lorcana_ Resourc
    - 4.6.4.4. Fourth, the challenging player exerts the challenging character. 
 
    - 4.6.4.5. Fifth, the challenge occurs, and any “while challenging” effects start to apply. This marks the end of the process. 
+  
+ - 4.6.5. Any “challenges” or “is challenged” triggered abilities are added to the bag and resolve from the bag along with any other triggered abilities that were added to the bag during the Challenge Declaration process. Once all effects in the bag have resolved, the challenge moves to the Challenge Damage step. 
 
-- 4.6.5. Any “challenges” or “is challenged” triggered abilities are added to the bag and resolve from the bag along with any other triggered abilities that were added to the bag during the Challenge Declaration process. Once all effects in the bag have resolved, the challenge moves to the Challenge Damage step. 
+ ### 4.6.6. Challenge Damage step 
 
-- 4.6.6. Challenge Damage step 
-
-   - 4.6.6.1. First, calculate the total amount of damage dealt to each character in the challenge, taking into account any current effects that modify Strength © and damage. Apply Strength © increases and © decreases first, then damage increases and damage reductions. The resulting number is the final amount of damage that character deals. If a character’s © is negative, it counts as 0 © for the purpose of determining how much damage is dealt during the challenge. 
+   - 4.6.6.1. First, calculate the total amount of damage dealt to each character in the challenge, taking into account any current effects that modify Strength and damage. Apply Strength increases and Strength decreases first, then damage increases and damage reductions. The resulting number is the final amount of damage that character deals. If a character’s Strength is negative, it counts as 0 Strength for the purpose of determining how much damage is dealt during the challenge. 
 
    - 4.6.6.2. Second, all damage is dealt simultaneously. The challenging character deals damage to the character being challenged, and the character being challenged deals damage to the challenging character. Place a number of damage counters equal to the damage dealt on each character in the challenge (see 1.9, “Damage”). This marks the end of the process. 
 
    - 4.6.6.3. Third, a game state check occurs. 
 
-- 4.6.7. After the Challenge Damage step and once all effects have been resolved and there are no more abilities in the bag, effects that apply “while challenging” or “while being challenged” end and the challenge is over. Any abilities that occur “after the challenge” happen now and 
-
-
-
-resolve. Then, the player can choose their next turn action. 
+- 4.6.7. After the Challenge Damage step and once all effects have been resolved and there are no more abilities in the bag, effects that apply “while challenging” or “while being challenged” end and the challenge is over. Any abilities that occur “after the challenge” happen now and resolve. Then, the player can choose their next turn action. 
 
 - 4.6.8. Characters can challenge locations. This follows all of the normal rules and processes of challenging with the following exceptions. 
 
@@ -603,7 +589,7 @@ resolve. Then, the player can choose their next turn action.
 
    - 4.6.8.2. Locations aren’t considered ready or exerted and can be challenged at any time during the Main Phase. 
 
-   - 4.6.8.3. Locations don’t have a 0; characteristic and don’t deal damage to the challenging character during the Challenge Damage step. Locations have a  characteristic and can be dealt damage during the Challenge Damage step. . 
+   - 4.6.8.3. Locations don’t have a Strength; characteristic and don’t deal damage to the challenging character during the Challenge Damage step. Locations have a Willpower characteristic and can be dealt damage during the Challenge Damage step. 
 
 - 4.6.9. If a character in a challenge is removed from the challenge for any reason, that challenge ends, following the process below. 
 
@@ -611,36 +597,38 @@ resolve. Then, the player can choose their next turn action.
 
    - 4.6.9.2. Then, effects that apply “while challenging” or “while being challenged” end and the challenge is over. Any abilities that occur “after the challenge” happen now and resolve. Then, the player can choose their next turn action. 
 
-> _Example A: The active player has a ready Stitch – New Dog in play, and an opponent has an exerted Milo Thatch – Clever Cartographer in play. The active player announces Stitch is challenging and chooses Milo Thatch as the character being challenged. There are no requirements or limiters to satisfy. The active player exerts Stitch. No effects trigger as a result of these declarations. Stitch and Milo Thatch deal damage equal to their Strength_ 0; _to each other. The active player and the opponent each place damage counters on their character. A game state check is performed and no effects trigger from the check. The challenge is over._ 
+   > _Example A: The active player has a ready Stitch – New Dog in play, and an opponent has an exerted Milo Thatch – Clever Cartographer in play. The active player announces Stitch is challenging and chooses Milo Thatch as the character being challenged. There are no requirements or limiters to satisfy. The active player exerts Stitch. No effects trigger as a result of these declarations. Stitch and Milo Thatch deal damage equal to their Strength to each other. The active player and the opponent each place damage counters on their character. A game state check is performed and no effects trigger from the check. The challenge is over._ 
 
+   {TODO: INSERT IMG ON PAGE 14}
 
-> _Example B: The active player declares Marshmallow – Persistent Guardian is challenging an opposing Cheshire Cat – Not All There. Cheshire Cat’s ability Lose Something? reads, “When this character is challenged and banished, banish the challenging character.” Marshmallow’s ability Durable reads, “When this character is banished in a challenge, you may return this card to your hand.”_ 
+   > _Example B: The active player declares Marshmallow – Persistent Guardian is challenging an opposing Cheshire Cat – Not All There. Cheshire Cat’s ability Lose Something? reads, “When this character is challenged and banished, banish the challenging character.” Marshmallow’s ability Durable reads, “When this character is banished in a challenge, you may return this card to your hand.”_ 
+   >_Marshmallow has 5 Strength , so he deals 5 damage to Cheshire Cat, who has 3 Willpower . When the game state check is made, Cheshire Cat is banished. This triggers his ability, and the opponent adds it to the bag. The opponent resolves the ability’s effect, banishing Marshmallow. Because the players haven’t reached the step of the challenge in which effects in the bag are resolved, they’re still in the challenge, and the active player adds Marshmallow’s ability to the bag. The active player can then resolve it, returning Marshmallow to their hand. There are no more effects to add, and the bag is empty. The challenge is over._ 
 
-_Marshmallow has 5 , so he deals 5 damage to Cheshire Cat, who has 3 . When the game state check is made, Cheshire Cat is banished. This triggers his ability, and the opponent adds it to the bag. The opponent resolves the ability’s effect, banishing Marshmallow. Because the players haven’t reached the step of the challenge in which effects in the bag are resolved, they’re still in the challenge, and the active player adds Marshmallow’s ability to the bag. The active player can then resolve it, returning Marshmallow to their hand. There are no more effects to add, and the bag is empty. The challenge is over._ 
+   {TODO: INSERT IMG ON PAGE 15}
 
+   > _Example C:  The active player declares Rafiki – Mystical Fighter is challenging an opposing Shenzi – Hyena Pack Leader, who has 0 Strength and is at De Vil Manor – Cruella’s Estate. De Vil Manor has no abilities, but Shenzi’s ability I’ll Handle This gives her +3 Strength while she’s at a location. Rafiki’s ability Ancient Skills reads, “Whenever he challenges a Hyena character, this character takes no damage from the challenge.” After requirements and limiters are checked and Rafiki is exerted, the active player adds this triggered ability to the bag. The active player then resolves that effect. When the challenge proceeds to the Challenge Damage step, Rafiki won’t be dealt any damage._ 
 
+   {TODO: INSERT IMG ON PAGE 16}
+   
+### 4.7. Move a Character 
 
-> _Example C: and is at De Vil Manor – Cruella’s Estate. De Vil Manor has no abilities, but Shenzi’s ability I’ll Handle This gives her +3 while she’s at a location. Rafiki’s ability Ancient Skills reads, “Whenever he challenges a Hyena character, this character takes no damage from the challenge.” After requirements and limiters are checked and Rafiki is exerted, the active player adds this triggered ability to the bag. The active player then resolves that effect. When the challenge proceeds to the Challenge Damage step, Rafiki won’t be dealt any damage._ 
+ - 4.7.1. A player can move only their characters. A player can move characters only to their locations. A player can’t move opposing characters, and they can’t move their characters to opposing locations. 
 
-- 4.7. Move a Character 
+ - 4.7.2. Players can’t move a character from a location unless that character is being moved to another location. 
 
-   - 4.7.1. A player can move only their characters. A player can move characters only to their locations. A player can’t move opposing characters, and they can’t move their characters to opposing locations. 
+ - 4.7.3. To move a character to a location, the active player follows the process listed below in order. 
 
-   - 4.7.2. Players can’t move a character from a location unless that character is being moved to another location. 
+   - 4.7.3.1. First, the player chooses one of their characters and one of their locations and declares that the character is moving to that location. 
 
-   - 4.7.3. To move a character to a location, the active player follows the process listed below in order. 
+   - 4.7.3.2. Second, the player announces whether they intend to move the character for the location’s move cost or for an alternate cost. If multiple alternate costs could apply, the player chooses one and ignores the rest. If the character can be moved for the alternate cost of “for free,” that alternate cost is immediately chosen, and the player ignores all other costs to move the character and skips directly to 4.7.4. 
 
-      - 4.7.3.1. First, the player chooses one of their characters and one of their locations and declares that the character is moving to that location. 
+   - 4.7.3.3. Third, the player determines the total cost to move the character. The total move cost is the chosen location’s move cost or alternate cost plus any payment modifiers. 
 
-      - 4.7.3.2. Second, the player announces whether they intend to move the character for the location’s move cost or for an alternate cost. If multiple alternate costs could apply, the player chooses one and ignores the rest. If the character can be moved for the alternate cost of “for free,” that alternate cost is immediately chosen, and the player ignores all other costs to move the character and skips directly to 4.7.4. 
+   - 4.7.3.4. Fourth, the player pays the location’s total move cost. If the total cost includes ink, the player exerts a number of ready ink cards equal to the total cost. If other costs are included, the player pays those costs as instructed by the card text. Costs can be paid in any order but must be paid in full. 
 
-      - 4.7.3.3. Third, the player determines the total cost to move the character. The total move cost is the chosen location’s move cost or alternate cost plus any payment modifiers. 
+- 4.7.4. Once the cost is paid, the chosen character moves to the chosen location. This marks the end of the process. 
 
-      - 4.7.3.4. Fourth, the player pays the location’s total move cost. If the total cost includes ink, the player exerts a number of ready ink cards equal to the total cost. If other costs are included, the player pays those costs as instructed by the card text. Costs can be paid in any order but must be paid in full. 
-
-   - 4.7.4. Once the cost is paid, the chosen character moves to the chosen location. This marks the end of the process. 
-
-   - 4.7.5. Triggered abilities that were added to the bag during the process can now resolve. Once all effects have been resolved, the move is complete. 
+- 4.7.5. Triggered abilities that were added to the bag during the process can now resolve. Once all effects have been resolved, the move is complete. 
 
 
 # 5. CARDS AND CARD TYPES 
