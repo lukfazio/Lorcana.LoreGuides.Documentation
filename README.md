@@ -2,12 +2,51 @@
 Repository focused on centralizing translated Disney Lorcana documentation.
 
 ## Repository Purpose
+
 This repository collects, standardizes, and maintains translated documentation for Disney Lorcana rules and guides. It serves as a reference for players, translators, and contributors who help keep rules content accurate across languages.
+
 
 ## Structure
 - **EnUS/**: Official English documentation and source PDFs.
 - **PtBr/**: Portuguese (Brazil) translations.
 - **Guardrails/**: Guidelines, terminology rules, extraction scripts, and contributor notes.
+
+## Phases
+
+### Phase 01: _Guardrails_
+To ensure the entire adaptation process follows consistent rules, "Guardrail" files must be created containing specific instructions for all file processing. Restrictions preventing the translation of specific terms, names, or letter text are examples of such guardrails.
+
+Guardrails List:
+- [x] Terms
+
+### Phase 02: _Structure & Base Files_
+To better process the information contained in the rules, all official documentation must be converted to Markdown (.md) format.
+This format is an industry standard for software documentation and makes it easier for programs and AI agents to process the information.
+
+Doc's List - https://www.disneylorcana.com/en-GB/resources: 
+- [ ] Wilds-Unknown_SetReleaseNotes_EN.pdf
+- [ ] Winterspell_SetReleaseNotes_EN.pdf
+- [ ] Whispers-in-the-Well_ReleaseNotes_English.pdf
+- [ ] Fabled_SetReleaseNotes_EN.pdf
+- [ ] Whispers-in-the-Well_StarterDeckA_RULES_A.pdf
+- [ ] OPPack_Rush_QuickRules_EN.pdf- 
+- [X] CRUpdate_2.1.0-EN.pdf
+- [ ] Tournament-Rules-6.11.2026_Update-EN.pdf
+- [ ] CORE Lore Guide Document.pdf
+- [ ] Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf
+- [ ] op-diversity-and-inclusion-policy.pdf
+- [ ] community-code-en.pdf
+
+### Phase 3: _Automated Translation_
+Automatic translation of all documents into Brazilian Portuguese (initially). With the rules and guardrail files, need to feed specific document chapters to an AI agent (ex: Gemini) to handle the bulk of the translation.
+
+Languages List:
+- [ ] Brazilian Portuguese
+- [ ] Spanish
+
+### Phase 4: _Revision & Adaptation_
+Review and necessary adjustments. This is the most manual and least technical part. As the translated articles are released, the work performed by the AI ​​agents requires validation regarding formatting, syntax, and semantics.
+
 
 ## How to Contribute
 Contributions are welcome via Issues and Pull Requests. To propose a change, follow these steps:
